@@ -1,0 +1,50 @@
+li{
+    font-weight: 700;
+}
+
+
+
+.html {
+    color: brown;
+}
+.css{
+    color: blue;
+}
+.java{
+    color: rgb(255, 255, 0);
+}
+.react{
+    color: rgb(83, 128, 128);
+}
+
+#html{
+    font-size: 32px;
+}
+#css{
+    font-size: 32px;
+}
+#java{
+    font-size: 32px;
+}
+#react{
+    font-size: 32px;
+}
+
+[class] {
+    background-color: black;
+}
+p:hover
+{
+    background-color: antiquewhite;
+}
+
+ul p{
+    background-color: blueviolet;
+}
+
+h1:hover{
+    color: blue;
+}
+/* [ranjeet]{
+    background-color: blanchedalmond;
+} */
